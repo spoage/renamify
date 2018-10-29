@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="renamify",
-    version="1.0.0",
+    version="1.0.1",
     author="Shane Poage",
     author_email="spoage@users.noreply.github.com",
     description="A command line tool and library to do bulk-renames of files using regex matching.",
